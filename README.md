@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="left">I'm a passionate Java Full-Stack Developer with a strong foundation in backend , frontend development and database connectivity. <br>This repository showcases a variety of projects that demonstrate my expertise in building robust and scalable applications.</h4>
+<h4 align="left">Software Engineer with 2 years of experience building and owning production backend and AI systems end to end. I’m not tied to one language or framework. I’ve worked across Java and Python, building reliable, scalable applications and taking ownership of the architecture and implementation myself, including production-grade AI systems in Python. With the industry moving toward Spring-based AI tooling, I’m also deepening my expertise in Spring AI and focusing on how to bring that into real-world production systems.</h4>
 
 ###
 
