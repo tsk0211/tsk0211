@@ -1,6 +1,6 @@
 # Hi, I'm Tushar Kulkarni 👋
  
-Software engineer with two years of experience building backend and AI systems in **Java** and **Python**. I like owning a system from architecture to deployment, and I'm currently focused on bringing **Spring AI** and agent workflows into production-grade, multi-tenant applications.
+Software engineer with two years of experience building backend and AI systems in **Java**, **Spring Boot**, **Spring AI** and **Python**. </br> I like owning a system from architecture to deployment, and I'm currently focused on bringing **Spring AI** and agent workflows into production-grade, multi-tenant applications.
  
 ---
  
@@ -25,10 +25,10 @@ Software engineer with two years of experience building backend and AI systems i
 A chat platform where users create their own agents and assign workflows, built on Spring AI with support for multiple LLM providers and a Next.js front end.
  
 - **Live demo:** [www.kulkarni.store](https://www.kulkarni.store) (source is private)
-- **Hosting:** runs on my own AWS EC2 instance, started on demand through a small gate I built called *UpTimeGate*
+- **Hosting:** runs on my own AWS EC2 instance, started on demand through a small gate I built called *AVYRO*
 ```mermaid
 flowchart LR
-    V[Visitor] --> N[Vercel gate page]
+    V[Visitor] --> N[Avyro Vercel gate page]
     N --> L[AWS Lambda<br/>start / stop / status]
     EB[EventBridge schedules] --> L
     L --> EC2[EC2: Spring AI platform]
@@ -48,7 +48,7 @@ A reusable security library packaged as Spring Boot starters (JWT, Redis, Actuat
  
 ## 🎓 Education
  
-B.Tech in Computer Science, Savitribai Phule Pune University
+B.Tech in Computer Science, Savitribai Phule Pune University </br>
 Full-Stack Web Development Certification, Udemy
  
 ---
