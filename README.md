@@ -9,13 +9,14 @@ Software engineer with two years of experience building backend and AI systems i
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,aws,docker&perline=6" alt="Java, Spring, Python, FastAPI, AWS, Docker" />
 </p>
-| Area | Tools |</br>
-|---|---|</br>
-| Backend | Java 21, Spring Boot, Spring Security, Python, FastAPI |</br>
-| AI / Agents | Spring AI, Google ADK, multi-provider LLM integration |</br>
-| Cloud & Delivery | AWS (EC2, Lambda, ECR, EventBridge), Docker, Maven |</br>
+</br>
+
+| Area | Tools |
+|---|---|
+| Backend | Java 21, Spring Boot, Spring Security, Python, FastAPI |
+| AI / Agents | Spring AI, Google ADK, multi-provider LLM integration |
+| Cloud & Delivery | AWS (EC2, Lambda, ECR, EventBridge), Docker, Maven |
 | Data | PostgreSQL, MySQL, MongoDB, Redis |
- 
 ---
  
 ## 🚀 Featured projects
